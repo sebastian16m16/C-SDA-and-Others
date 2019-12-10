@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Learning\C\SDA\Pregatire\TabeleDispersie2\TabeleDispersie2\Source.c(18): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'Cell'
+  TabeleDispersie2.vcxproj -> C:\Learning\C\SDA\Pregatire\TabeleDispersie2\Debug\TabeleDispersie2.exe

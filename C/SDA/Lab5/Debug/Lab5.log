@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\learning\c\sda\lab5\source.c(112): warning C4716: 'deleteKey': must return a value
+  Lab5.vcxproj -> C:\Learning\C\SDA\Lab5\Debug\Lab5.exe

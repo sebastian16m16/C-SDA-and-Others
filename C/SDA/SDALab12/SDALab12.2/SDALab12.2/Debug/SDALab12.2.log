@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Learning\C\SDA\SDALab12\SDALab12.2\SDALab12.2\Source.c(13): warning C4013: 'pow10' undefined; assuming extern returning int
+  SDALab12.2.vcxproj -> C:\Learning\C\SDA\SDALab12\SDALab12.2\Debug\SDALab12.2.exe

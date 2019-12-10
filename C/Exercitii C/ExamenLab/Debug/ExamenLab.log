@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\learning\c\examenlab\source.c(16): warning C4101: 'x': unreferenced local variable
+  ExamenLab.vcxproj -> C:\Learning\C\ExamenLab\Debug\ExamenLab.exe

@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\learning\c\sda\sdalab4\source.c(152): warning C4047: 'return': 'NodeT *' differs in levels of indirection from 'int'
+c:\learning\c\sda\sdalab4\source.c(154): warning C4047: 'return': 'NodeT *' differs in levels of indirection from 'int'
+c:\learning\c\sda\sdalab4\source.c(157): warning C4047: 'return': 'NodeT *' differs in levels of indirection from 'int'
+c:\learning\c\sda\sdalab4\source.c(155): warning C4047: 'initializing': 'int' differs in levels of indirection from 'NodeT *'
+c:\learning\c\sda\sdalab4\source.c(205): warning C4047: 'initializing': 'int' differs in levels of indirection from 'NodeT *'
+  SDALab4.vcxproj -> C:\Learning\C\SDA\SDALab4\Debug\SDALab4.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Learning\C\SDA\Pregatire\COlocviu1B\COlocviu1B\Source.c(18): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'Cell'
+  COlocviu1B.vcxproj -> C:\Learning\C\SDA\Pregatire\COlocviu1B\Debug\COlocviu1B.exe

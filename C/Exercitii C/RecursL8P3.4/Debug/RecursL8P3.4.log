@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\learning\c\recursl8p3.4\source.c(27): warning C4098: 'main': 'void' function returning a value
+  RecursL8P3.4.vcxproj -> C:\Learning\C\RecursL8P3.4\Debug\RecursL8P3.4.exe
